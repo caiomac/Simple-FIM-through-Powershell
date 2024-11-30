@@ -1,4 +1,4 @@
-<h1>Creating a simple File Integrity Monitoring (FIM) script</h1>
+<h1>Creating a File Integrity Monitoring (FIM) script</h1>
 
 <h2>Description</h2>
 This File Integrity Monitoring (FIM) project is a PowerShell-based solution designed to monitor changes in a directory by creating a baseline of file hashes and comparing them to their current state. The script detects and alerts users of file modifications, deletions, and the addition of new files. This ensures the integrity of sensitive files and helps detect unauthorized changes.
